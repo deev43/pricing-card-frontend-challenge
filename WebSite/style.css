@@ -1,0 +1,157 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+#sayfa{
+    width: 900px;
+    border-style: solid;
+    border-color: green;
+    border-width: 1px;
+    min-height: 600px;
+    margin:auto;
+
+}
+#banner{
+
+    width: 898px;
+    border-style: none;
+    border-color: red;
+    border-width: 1px;
+    height: 200px;
+    margin:auto;
+    background-color: white;
+}
+#logo{
+    width: 200px;
+    border-style: none;
+    border-width: 1px;
+    height: 80px; 
+    background-color: rgb(78, 87, 214);
+    position: relative;
+    top: 20px;
+    left: 10px;
+    float: left;
+}
+#sosyal{
+    width: 200px;
+    border-style: none;
+    border-width: 1px;
+    height: 50px; 
+    background-color: white;
+    position: relative;
+    top: 130px;
+    right: 10px;
+    float: right;
+}
+#logo img{
+    width: 200px;
+    height: 150px;
+}
+#ikon{
+    float: right;
+    margin-left: 10px;
+    width: 55px;
+    height: 50px;
+}
+#anamenu{
+    width: 898px;
+    border-style: none;
+    border-color: red;
+    border-width: 1px;
+    height: 50px;
+    margin:auto;
+    background-color: lightblue;
+
+}
+#anamenu ul{
+    list-style-type: none;
+}
+#anamenu ul li{
+    border-color: blue;
+    background-color: white;
+    width: 80px;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 5px;
+    float: left;
+    position: relative;
+    top: 10px;
+    margin-left: 110px;
+    padding: 3px;
+    text-align: center;
+}
+#anamenu ul a{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: small;
+}
+#anamenu ul a:link{
+    color: blue;
+}
+#anamenu ul a:visited{
+    color: brown;
+}
+#anamenu ul a:hover{
+    color: red;
+}
+#anamenu ul a:active{
+    color: green;
+}
+
+
+#icerik{
+    width: 600px;
+    border-style: none;
+    border-color: blue;
+    border-width: 1px;
+    height: 300px;
+    float: left;
+    background-color: white;
+
+}
+#yanmenu{
+    width: 300px;
+    border-style: none;
+    border-color: blue;
+    border-width: 1px;
+    height: 300px;
+    float: right;
+    background-color: rgb(197, 201, 208);
+}
+
+.yan-metin{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+.metin{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    color: rgb(35, 24, 162);
+}
+
+.baslik{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:red;
+}
+
+#altmenu{
+    width: 898px;
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+    height: 50px;
+    float: left;
+    background-color: rgb(0, 252, 252);
+    text-align: center;
+    color: black;
+}
+
+#altmenu a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    top: 10px;
+    color: black;
+}

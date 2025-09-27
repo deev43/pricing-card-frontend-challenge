@@ -1,0 +1,30 @@
+#altmenu{
+    background-color: rgb(224, 213, 54);
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    text-decoration: none; /*linklerin altindaki cizgiyi siler */
+
+}
+a:link{
+    color: black;
+}
+a:visited{
+    color:brown;
+}
+a:hover{
+    color:blue;
+    text-decoration: underline;
+
+}
+a:active{
+    color:red;
+}

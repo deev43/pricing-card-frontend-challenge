@@ -1,0 +1,10 @@
+p{
+    border-style: solid;
+    border-width: 20px;
+    margin: 50px;
+    padding: 20px;
+    border-color: blue;
+    box-shadow: 10px 10px 20px yellow inset; /* horizontal-vertical-blur*/
+    border-radius: 10px;
+    background-color: lightgreen;
+}

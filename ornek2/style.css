@@ -1,0 +1,41 @@
+#container{
+    border-style: solid;
+    width: 400px;
+    margin: auto;
+    background-color: darkgrey;
+    
+}
+
+header{
+    border-style: solid;
+    border-color: blue;
+    width: 390px;
+    margin: auto;
+    background-color: aqua;
+    height: 50px;
+}
+nav{
+    border-style: solid;
+    border-color: green;
+    width: 390px;
+    margin: auto;
+    background-color: aqua;
+    height: 30px;
+}
+article{
+    border-style: solid;
+    border-color: red;
+    width: 390px;
+    margin: auto;
+    background-color: aqua;
+    min-height: 250px;
+}
+footer{
+    border-style: solid;
+    border-color: yellow;
+    width: 390px;
+    margin: auto;
+    background-color: aqua;
+    height: 50px;
+
+}

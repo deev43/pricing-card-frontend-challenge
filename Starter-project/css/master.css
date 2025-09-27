@@ -1,0 +1,30 @@
+img{
+ width: 200px;
+ height: 200px;
+ border-radius: 50%;
+ 
+}
+.container{
+    border:1px solid black;
+    display:inline-block;
+    width: 500px;
+    margin: 20px;
+    width: 60vw;
+    height: 100vh;
+}
+p.my-description{
+    text-align: center;
+    font-weight: 400;
+
+}
+h1.my-name{
+    text-align: center;
+    color: rgb(29, 1, 236);
+    font-weight: 800;
+    font-style: italic;
+}
+h2.my-title{
+    text-align: center;
+    font-weight: 500;
+    text-shadow: 5px 8px 10px #000000;
+}
